@@ -1,0 +1,11 @@
+.product{
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+}
+.allProducts{
+    display: flex;
+}
+.view{
+    color: white;
+}
